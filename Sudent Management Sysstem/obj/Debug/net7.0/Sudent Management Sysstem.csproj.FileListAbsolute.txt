@@ -1,0 +1,15 @@
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\bin\Debug\net7.0\Sudent Management Sysstem.exe
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\bin\Debug\net7.0\Sudent Management Sysstem.deps.json
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\bin\Debug\net7.0\Sudent Management Sysstem.runtimeconfig.json
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\bin\Debug\net7.0\Sudent Management Sysstem.dll
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\bin\Debug\net7.0\Sudent Management Sysstem.pdb
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.csproj.AssemblyReference.cache
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.AssemblyInfoInputs.cache
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.AssemblyInfo.cs
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.csproj.CoreCompileInputs.cache
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.dll
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\refint\Sudent Management Sysstem.dll
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.pdb
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\Sudent Management Sysstem.genruntimeconfig.cache
+C:\Users\PAUL\source\repos\Sudent Management Sysstem solution\Sudent Management Sysstem\obj\Debug\net7.0\ref\Sudent Management Sysstem.dll
